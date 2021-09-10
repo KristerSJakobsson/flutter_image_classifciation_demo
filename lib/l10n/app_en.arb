@@ -1,0 +1,14 @@
+{
+ "title": "Camera Tensorflow Demo",
+ "frontCamera": "Front",
+ "backCamera": "Back",
+ "externalCamera": "External",
+ "unknownCamera": "Other",
+ "noCamera": "No camera available",
+ "previewHeader": "Match Analysis",
+ "share": "Share via",
+ "loading": "Loading",
+ "error": "Error",
+ "noImageSelected": "No Image Selected",
+ "shareVia": "Share via"
+}

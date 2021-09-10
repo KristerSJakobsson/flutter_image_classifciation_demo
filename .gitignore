@@ -10,7 +10,7 @@
 .svn/
 
 # IntelliJ related
-*.iml
+#*.iml
 *.ipr
 *.iws
 .idea/
@@ -44,3 +44,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Deployment key for Android APK
+/android/key.properties

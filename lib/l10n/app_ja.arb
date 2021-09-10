@@ -1,0 +1,14 @@
+{
+ "title": "カメラ・Tensorflowデモアプリ",
+ "frontCamera": "前",
+ "backCamera": "後",
+ "externalCamera": "外部",
+ "unknownCamera": "その他",
+ "noCamera": "カメラが見つかりません",
+ "previewHeader": "結果表示",
+ "share": "共有",
+ "loading": "読込中",
+ "error": "エラー",
+ "noImageSelected": "写真を洗濯してください",
+ "shareVia": "共有"
+}
